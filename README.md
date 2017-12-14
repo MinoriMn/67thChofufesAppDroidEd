@@ -1,4 +1,4 @@
-# ChofufesApp2017DroidED 67回調布祭アプリForDr
+# ChofufesApp2017DroidED 67回調布祭アプリForDroid
 
 メインのコードは67thChofufesApp下にある。
 
