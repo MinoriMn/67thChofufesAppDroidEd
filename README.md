@@ -1,4 +1,4 @@
-# ChofufesApp2017IosED 67回調布祭アプリForIos
+# ChofufesApp2017IosED 67回調布祭アプリForDroid
 
 メインのコードはapp/src/main/a67thChofufesApp下にある。
 
